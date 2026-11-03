@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Sombra suave da folha -->
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M 38 26 L 70 26 A 8 8 0 0 1 78 34 L 78 78 A 8 8 0 0 1 70 86 L 38 86 A 8 8 0 0 1 30 78 L 30 34 A 8 8 0 0 1 38 26 Z" />
+
+    <!-- Folha branca da prancheta -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 38 24 L 70 24 A 8 8 0 0 1 78 32 L 78 76 A 8 8 0 0 1 70 84 L 38 84 A 8 8 0 0 1 30 76 L 30 32 A 8 8 0 0 1 38 24 Z" />
+
+    <!-- Clipe superior -->
+    <path
+        android:fillColor="#3730A3"
+        android:pathData="M 47 19 L 61 19 A 3 3 0 0 1 64 22 L 64 24 A 3 3 0 0 1 61 27 L 47 27 A 3 3 0 0 1 44 24 L 44 22 A 3 3 0 0 1 47 19 Z" />
+
+    <!-- Abertura do clipe -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 52 22 L 56 22 A 1 1 0 0 1 57 23 L 57 24 A 1 1 0 0 1 56 25 L 52 25 A 1 1 0 0 1 51 24 L 51 23 A 1 1 0 0 1 52 22 Z" />
+
+    <!-- Item 1: Círculo verde (Concluído) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 41 34 A 6 6 0 1 0 41 46 A 6 6 0 1 0 41 34 Z" />
+
+    <!-- Item 1: Checkmark -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 38 40 L 40 42 L 44 38"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="1.8" />
+
+    <!-- Item 1: Linha de texto -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 50 40 L 70 40"
+        android:strokeColor="#64748B"
+        android:strokeLineCap="round"
+        android:strokeWidth="3.5" />
+
+    <!-- Item 2: Círculo verde (Concluído) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 41 48 A 6 6 0 1 0 41 60 A 6 6 0 1 0 41 48 Z" />
+
+    <!-- Item 2: Checkmark -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 38 54 L 40 56 L 44 52"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeWidth="1.8" />
+
+    <!-- Item 2: Linha de texto -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 50 54 L 66 54"
+        android:strokeColor="#64748B"
+        android:strokeLineCap="round"
+        android:strokeWidth="3.5" />
+
+    <!-- Item 3: Círculo cinza vazado (Pendente) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 41 62 A 6 6 0 1 0 41 74 A 6 6 0 1 0 41 62 Z"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="1.8" />
+
+    <!-- Item 3: Linha de texto -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 50 68 L 62 68"
+        android:strokeColor="#CBD5E1"
+        android:strokeLineCap="round"
+        android:strokeWidth="3.5" />
+
+</vector>
